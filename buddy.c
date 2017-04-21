@@ -7,7 +7,7 @@
 /**************************************************************************
  * Conditional Compilation Options
  **************************************************************************/
-#define USE_DEBUG 0
+#define USE_DEBUG 1
 
 /**************************************************************************
  * Included Files
@@ -116,7 +116,7 @@ void buddy_init()
 void *buddy_split( int i, const int order)
 {
 	#if USE_DEBUG == 1
-		PDEBUG("Split called on order %d\n", order);
+		PDEBUG("Split called on order %d, size %dK\n", order, (int)pow(2,order)/1024);
 	#endif
 	page_t *left_temp_ptr;
 	// it fits, no need to break it down
