@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['next',['next',['../structlist__head.html#ac3b0ff0dfb978a0cfbdad6b9d19cdcfe',1,'list_head']]]
+  ['mem',['mem',['../structvar__t.html#a10c34ec2d6e86f971cf9702a4651267d',1,'var_t']]]
 ];

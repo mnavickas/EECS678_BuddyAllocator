@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['page_5fsize',['PAGE_SIZE',['../buddy_8c.html#a7d467c1d283fdfa1f2081ba1e0d01b6e',1,'buddy.c']]],
-  ['page_5fto_5faddr',['PAGE_TO_ADDR',['../buddy_8c.html#a7c13b46aacf7af9976a7f058076c81a3',1,'buddy.c']]],
-  ['pdebug',['PDEBUG',['../buddy_8c.html#a9077500d1488a75e4eec5eeb1131655e',1,'buddy.c']]]
+  ['max',['MAX',['../buddy_8c.html#aff9931d7524c88e07743af6535b20761',1,'buddy.c']]],
+  ['max_5forder',['MAX_ORDER',['../buddy_8c.html#ab08dffec08ac450d78d4c062b571939e',1,'buddy.c']]],
+  ['min',['MIN',['../buddy_8c.html#ad2f3678bf5eae3684fc497130b946eae',1,'buddy.c']]],
+  ['min_5forder',['MIN_ORDER',['../buddy_8c.html#a23bae2b7cd4008c90256be146e21cccf',1,'buddy.c']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['get_5fvar',['get_var',['../simulator_8c.html#a8243708bf20349942fd78b86b23faa38',1,'simulator.c']]]
+  ['find_5fbuddy',['find_buddy',['../buddy_8c.html#a827df9811d6976f4f754ec7249634090',1,'buddy.c']]]
 ];

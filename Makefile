@@ -16,7 +16,7 @@ CFILES = simulator.c buddy.c
 HFILES = buddy.h list.h
 
 # Add libraries that need linked as needed (e.g. -lm -lpthread)
-LIBS =
+LIBS = -lm
 
 ZIPNAME = project3-buddy
 

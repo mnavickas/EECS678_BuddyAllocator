@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['doublefree',['DOUBLEFREE',['../simulator_8c.html#af9bff8ff1154a04a899276af806b8586affd13aa6e8fc0c59b7a8935880e85ff7',1,'simulator.c']]]
+  ['clear',['CLEAR',['../buddy_8c.html#ab0ba4dd6e237b96132c0a66be2fb3bc2',1,'buddy.c']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['g_5fmemory',['g_memory',['../buddy_8c.html#ad6d688a63e574ba24b0247b2bec1e31d',1,'buddy.c']]],
-  ['g_5fpages',['g_pages',['../buddy_8c.html#afbc14d1f5ec9e22ef3e00d9d33ee0c08',1,'buddy.c']]],
-  ['get_5fvar',['get_var',['../simulator_8c.html#a8243708bf20349942fd78b86b23faa38',1,'simulator.c']]]
+  ['find_5fbuddy',['find_buddy',['../buddy_8c.html#a827df9811d6976f4f754ec7249634090',1,'buddy.c']]],
+  ['free_5farea',['free_area',['../buddy_8c.html#a6d390a89d1f6c149cef6284d2c0351df',1,'buddy.c']]]
 ];
